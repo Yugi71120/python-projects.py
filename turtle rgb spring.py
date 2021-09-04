@@ -1,3 +1,5 @@
+#use terminal to import turtle(pip install turtle)
+
 import turtle
 from turtle import *
 
